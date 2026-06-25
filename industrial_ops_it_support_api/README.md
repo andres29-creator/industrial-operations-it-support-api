@@ -93,11 +93,5 @@ View reports:
 curl http://127.0.0.1:5000/reports/operations-summary
 ```
 
-## Interview Talking Points
 
-- I built this project to mirror the type of support, reporting, and process improvement work Industrial Operations IT teams perform.
-- The system tracks incidents by business area, affected system, priority, status, downtime, and resolution notes.
-- I used aggregate SQL reports to identify recurring issues, systems with the most downtime, and support workload.
-- The project connects my Publix retail operations experience with my CS coursework and backend API skills.
-- A future version could add authentication, Power BI dashboards, automated alerting, and barcode scanner device logs.
 
